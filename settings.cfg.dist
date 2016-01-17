@@ -1,0 +1,4 @@
+DEBUG = True
+TESTING = False
+SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://user:pass@localhost/db'
+AUTH_KEY_HASH_STRING = '****'
